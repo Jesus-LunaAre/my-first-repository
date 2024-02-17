@@ -1,1 +1,2 @@
-¡Hi, My name is Jesus Luna! 
+¡Hi, My name is Jesus Luna!
+Estoy tomando un curso en freeCodeCamp
